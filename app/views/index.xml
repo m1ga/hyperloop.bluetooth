@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<ScrollView id="view_scroller" class="vertical"/>
+		<ScrollView id="view_scroller_char" class="vertical"/>
+		<Button id="btn_scan" title="BLE Scan"/>
+		<Button id="btn_scan_bt" title="BT Scan"/>
+	</Window>
+</Alloy>
